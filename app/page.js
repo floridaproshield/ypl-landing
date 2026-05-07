@@ -8,14 +8,11 @@ const EMAIL = 'info@yplservices.com'
 const LOGO = '/images/logo.png'
 
 const VIDEOS = [
-  '/videos/2165b68c63204b1b94138a654f5ed98f.MP4',
-  '/videos/b3547609dd614c0eb4023aa540e13192.MP4',
-  '/videos/c8237ee421954de8a4c6530dbab2cc09.MP4',
-  '/videos/4b6ff8cf09ca4971b39b45d3da7857f8.MP4',
-  '/videos/5a40273129aa40609fb5701fd6e0f639.MP4',
-  '/videos/167fe1ca8b6847c192f84c5fd53c1b9e.MP4',
-  '/videos/549f1617fb394471b60290a6e3a11266.MP4',
-  '/videos/890a4afa045c4ad9b79b33917334b0c4.MP4',
+  'https://res.cloudinary.com/dxdmqizxw/video/upload/v1778173762/2165b68c63204b1b94138a654f5ed98f_lkdivz.mp4',
+  'https://res.cloudinary.com/dxdmqizxw/video/upload/v1778173761/c8237ee421954de8a4c6530dbab2cc09_krveim.mp4',
+  'https://res.cloudinary.com/dxdmqizxw/video/upload/v1778173755/549f1617fb394471b60290a6e3a11266_htgypq.mp4',
+  'https://res.cloudinary.com/dxdmqizxw/video/upload/v1778173752/4b6ff8cf09ca4971b39b45d3da7857f8_qcnbgp.mp4',
+  'https://res.cloudinary.com/dxdmqizxw/video/upload/v1778173739/b3547609dd614c0eb4023aa540e13192_aamisc.mp4',
 ]
 
 const SITE_IMAGES = [
